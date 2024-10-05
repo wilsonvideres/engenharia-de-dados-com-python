@@ -28,7 +28,7 @@ while True:
       
     limpar_tela()
             
-    print(f"\n{status_msg.center(40," ")}")
+    print(f"\n{status_msg.center(40,' ')}")
     
     print(menu)    
     
